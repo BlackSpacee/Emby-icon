@@ -1,0 +1,2558 @@
+{
+  "name": "Emby icons",
+  "description": "本订阅图标集按照服名群名拼音名缩写名或者常用叫法来命名，按照字母 A-Z 排序，可自行搜索与查找。",
+  "icons": [
+    {
+      "name": "1111.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/1111.png"
+    },
+    {
+      "name": "1111a1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/1111a1.png"
+    },
+    {
+      "name": "11Pshare.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/11Pshare.png"
+    },
+    {
+      "name": "11Pshare1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/11Pshare1.png"
+    },
+    {
+      "name": "1231.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/1231.png"
+    },
+    {
+      "name": "1232.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/1232.png"
+    },
+    {
+      "name": "2020.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/2020.png"
+    },
+    {
+      "name": "2020a1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/2020a1.png"
+    },
+    {
+      "name": "21S.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/21S.png"
+    },
+    {
+      "name": "21S1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/21S1.png"
+    },
+    {
+      "name": "23Studio.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/23Studio.png"
+    },
+    {
+      "name": "23Studio1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/23Studio1.png"
+    },
+    {
+      "name": "23Studio3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/23Studio3.png"
+    },
+    {
+      "name": "23Studio4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/23Studio4.png"
+    },
+    {
+      "name": "404.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/404.png"
+    },
+    {
+      "name": "404a1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/404a1.png"
+    },
+    {
+      "name": "ACV.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ACV.png"
+    },
+    {
+      "name": "ACV1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ACV1.png"
+    },
+    {
+      "name": "ALiYun.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ALiYun.png"
+    },
+    {
+      "name": "ALiYun1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ALiYun1.png"
+    },
+    {
+      "name": "AcEmby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/AcEmby.png"
+    },
+    {
+      "name": "AcEmby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/AcEmby1.png"
+    },
+    {
+      "name": "AcEmby2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/AcEmby2.png"
+    },
+    {
+      "name": "AcEmby3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/AcEmby3.png"
+    },
+    {
+      "name": "AcEmby4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/AcEmby4.png"
+    },
+    {
+      "name": "AcEmby5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/AcEmby5.png"
+    },
+    {
+      "name": "Acg.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Acg.png"
+    },
+    {
+      "name": "Acg1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Acg1.png"
+    },
+    {
+      "name": "Acg2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Acg2.png"
+    },
+    {
+      "name": "Acg3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Acg3.png"
+    },
+    {
+      "name": "Agan.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Agan.png"
+    },
+    {
+      "name": "Agan1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Agan1.png"
+    },
+    {
+      "name": "Akuai.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Akuai.png"
+    },
+    {
+      "name": "Akuai1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Akuai1.png"
+    },
+    {
+      "name": "Alist.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Alist.png"
+    },
+    {
+      "name": "Alist1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Alist1.png"
+    },
+    {
+      "name": "Alpha.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Alpha.png"
+    },
+    {
+      "name": "Alpha1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Alpha1.png"
+    },
+    {
+      "name": "AnimeHome.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/AnimeHome.png"
+    },
+    {
+      "name": "AnimeHome1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/AnimeHome1.png"
+    },
+    {
+      "name": "Apop.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Apop.png"
+    },
+    {
+      "name": "Apop1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Apop1.png"
+    },
+    {
+      "name": "Asakie.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Asakie.png"
+    },
+    {
+      "name": "Asakie1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Asakie1.png"
+    },
+    {
+      "name": "Atvii.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Atvii.png"
+    },
+    {
+      "name": "Atvii1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Atvii1.png"
+    },
+    {
+      "name": "BaiDuYun.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BaiDuYun.png"
+    },
+    {
+      "name": "BaiDuYun1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BaiDuYun1.png"
+    },
+    {
+      "name": "BaiPiaoWang.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BaiPiaoWang.png"
+    },
+    {
+      "name": "BaiPiaoWang1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BaiPiaoWang1.png"
+    },
+    {
+      "name": "Bailangtu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Bailangtu.png"
+    },
+    {
+      "name": "Bailangtu1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Bailangtu1.png"
+    },
+    {
+      "name": "Banana.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Banana.png"
+    },
+    {
+      "name": "Banana1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Banana1.png"
+    },
+    {
+      "name": "Bdd.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Bdd.png"
+    },
+    {
+      "name": "Bdd1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Bdd1.png"
+    },
+    {
+      "name": "Bdd2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Bdd2.png"
+    },
+    {
+      "name": "Bdd3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Bdd3.png"
+    },
+    {
+      "name": "BestEmby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BestEmby.png"
+    },
+    {
+      "name": "BestEmby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BestEmby1.png"
+    },
+    {
+      "name": "BestEmby2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BestEmby2.png"
+    },
+    {
+      "name": "BestEmby3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BestEmby3.png"
+    },
+    {
+      "name": "Bigbus.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Bigbus.png"
+    },
+    {
+      "name": "Bigbus1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Bigbus1.png"
+    },
+    {
+      "name": "Bigbus2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Bigbus2.png"
+    },
+    {
+      "name": "Bigbus4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Bigbus4.png"
+    },
+    {
+      "name": "Bingzhenxigua.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Bingzhenxigua.png"
+    },
+    {
+      "name": "Bingzhenxigua1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Bingzhenxigua1.png"
+    },
+    {
+      "name": "BlueSea.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BlueSea.png"
+    },
+    {
+      "name": "BlueSea1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BlueSea1.png"
+    },
+    {
+      "name": "BlueSeaEmby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BlueSeaEmby.png"
+    },
+    {
+      "name": "BlueSeaEmby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BlueSeaEmby1.png"
+    },
+    {
+      "name": "BoYinYuan.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BoYinYuan.png"
+    },
+    {
+      "name": "BoYinYuan1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BoYinYuan1.png"
+    },
+    {
+      "name": "Bolanggu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Bolanggu.png"
+    },
+    {
+      "name": "Bolanggu1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Bolanggu1.png"
+    },
+    {
+      "name": "Brother1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Brother1.png"
+    },
+    {
+      "name": "Brother2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Brother2.png"
+    },
+    {
+      "name": "BuGeiKan.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BuGeiKan.png"
+    },
+    {
+      "name": "BuGeiKan1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BuGeiKan1.png"
+    },
+    {
+      "name": "BuGeiKan2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BuGeiKan2.png"
+    },
+    {
+      "name": "BuGeiKan3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BuGeiKan3.png"
+    },
+    {
+      "name": "BuGeiTing.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BuGeiTing.png"
+    },
+    {
+      "name": "BuGeiTing1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/BuGeiTing1.png"
+    },
+    {
+      "name": "Byg.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Byg.png"
+    },
+    {
+      "name": "Byg1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Byg1.png"
+    },
+    {
+      "name": "Captain-z.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Captain-z.png"
+    },
+    {
+      "name": "Captain-z1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Captain-z1.png"
+    },
+    {
+      "name": "Captainz1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Captainz1.png"
+    },
+    {
+      "name": "Captainz2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Captainz2.png"
+    },
+    {
+      "name": "Captainz3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Captainz3.png"
+    },
+    {
+      "name": "Captainz4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Captainz4.png"
+    },
+    {
+      "name": "CatFish.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/CatFish.png"
+    },
+    {
+      "name": "CatFish1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/CatFish1.png"
+    },
+    {
+      "name": "CatFish2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/CatFish2.png"
+    },
+    {
+      "name": "CatFish3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/CatFish3.png"
+    },
+    {
+      "name": "Cbcb.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Cbcb.png"
+    },
+    {
+      "name": "Cbcb1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Cbcb1.png"
+    },
+    {
+      "name": "Cbcb2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Cbcb2.png"
+    },
+    {
+      "name": "Cbcb3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Cbcb3.png"
+    },
+    {
+      "name": "CcEmby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/CcEmby.png"
+    },
+    {
+      "name": "CcEmby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/CcEmby1.png"
+    },
+    {
+      "name": "CharonTV.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/CharonTV.png"
+    },
+    {
+      "name": "CharonTV1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/CharonTV1.png"
+    },
+    {
+      "name": "Chenjin.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Chenjin.png"
+    },
+    {
+      "name": "Chenjin1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Chenjin1.png"
+    },
+    {
+      "name": "CherryTV.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/CherryTV.png"
+    },
+    {
+      "name": "CherryTV1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/CherryTV1.png"
+    },
+    {
+      "name": "Ciji.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Ciji.png"
+    },
+    {
+      "name": "Ciji1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Ciji1.png"
+    },
+    {
+      "name": "Cola.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Cola.png"
+    },
+    {
+      "name": "Cola1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Cola1.png"
+    },
+    {
+      "name": "CrossGreatWall.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/CrossGreatWall.png"
+    },
+    {
+      "name": "CrossGreatWall1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/CrossGreatWall1.png"
+    },
+    {
+      "name": "Csn.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Csn.png"
+    },
+    {
+      "name": "Csn1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Csn1.png"
+    },
+    {
+      "name": "Csn2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Csn2.png"
+    },
+    {
+      "name": "Csn3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Csn3.png"
+    },
+    {
+      "name": "Csn4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Csn4.png"
+    },
+    {
+      "name": "Csn5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Csn5.png"
+    },
+    {
+      "name": "DaHangHai.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/DaHangHai.png"
+    },
+    {
+      "name": "DaHangHai1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/DaHangHai1.png"
+    },
+    {
+      "name": "Dafashijian.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Dafashijian.png"
+    },
+    {
+      "name": "Dafashijian1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Dafashijian1.png"
+    },
+    {
+      "name": "Davyingyuan.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Davyingyuan.png"
+    },
+    {
+      "name": "Davyingyuan1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Davyingyuan1.png"
+    },
+    {
+      "name": "Des.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Des.png"
+    },
+    {
+      "name": "Des1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Des1.png"
+    },
+    {
+      "name": "Dess1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Dess1.png"
+    },
+    {
+      "name": "Dess2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Dess2.png"
+    },
+    {
+      "name": "Didiemby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Didiemby.png"
+    },
+    {
+      "name": "Didiemby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Didiemby1.png"
+    },
+    {
+      "name": "Dipingxian.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Dipingxian.png"
+    },
+    {
+      "name": "Dipingxian1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Dipingxian1.png"
+    },
+    {
+      "name": "Dolphin.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Dolphin.png"
+    },
+    {
+      "name": "Dolphin1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Dolphin1.png"
+    },
+    {
+      "name": "Dolphin2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Dolphin2.png"
+    },
+    {
+      "name": "Dolphin3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Dolphin3.png"
+    },
+    {
+      "name": "Dq1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Dq1.png"
+    },
+    {
+      "name": "Dq2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Dq2.png"
+    },
+    {
+      "name": "Dv.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Dv.png"
+    },
+    {
+      "name": "Dv1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Dv1.png"
+    },
+    {
+      "name": "DxzEmby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/DxzEmby.png"
+    },
+    {
+      "name": "DxzEmby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/DxzEmby1.png"
+    },
+    {
+      "name": "Echeng511.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Echeng511.png"
+    },
+    {
+      "name": "Echeng522.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Echeng522.png"
+    },
+    {
+      "name": "Echeng611.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Echeng611.png"
+    },
+    {
+      "name": "Echeng612.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Echeng612.png"
+    },
+    {
+      "name": "ElevenPlus.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ElevenPlus.png"
+    },
+    {
+      "name": "ElevenPlus1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ElevenPlus1.png"
+    },
+    {
+      "name": "Emby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Emby.png"
+    },
+    {
+      "name": "Emby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Emby1.png"
+    },
+    {
+      "name": "Emby2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Emby2.png"
+    },
+    {
+      "name": "Emby3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Emby3.png"
+    },
+    {
+      "name": "Emby4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Emby4.png"
+    },
+    {
+      "name": "Emby5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Emby5.png"
+    },
+    {
+      "name": "Emby6.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Emby6.png"
+    },
+    {
+      "name": "Emby7.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Emby7.png"
+    },
+    {
+      "name": "EmbyClub.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/EmbyClub.png"
+    },
+    {
+      "name": "EmbyClub1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/EmbyClub1.png"
+    },
+    {
+      "name": "EmbyClub2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/EmbyClub2.png"
+    },
+    {
+      "name": "EmbyClub3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/EmbyClub3.png"
+    },
+    {
+      "name": "EmbyHub.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/EmbyHub.png"
+    },
+    {
+      "name": "EmbyHub1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/EmbyHub1.png"
+    },
+    {
+      "name": "EmbyHub2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/EmbyHub2.png"
+    },
+    {
+      "name": "EmbyHub3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/EmbyHub3.png"
+    },
+    {
+      "name": "EmbyHub4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/EmbyHub4.png"
+    },
+    {
+      "name": "EmbyHub5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/EmbyHub5.png"
+    },
+    {
+      "name": "EmbyX.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/EmbyX.png"
+    },
+    {
+      "name": "EmbyX1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/EmbyX1.png"
+    },
+    {
+      "name": "Fangyt.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Fangyt.png"
+    },
+    {
+      "name": "Fangyt1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Fangyt1.png"
+    },
+    {
+      "name": "Fangyt2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Fangyt2.png"
+    },
+    {
+      "name": "Fangyt3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Fangyt3.png"
+    },
+    {
+      "name": "Fangyt4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Fangyt4.png"
+    },
+    {
+      "name": "Fangyt5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Fangyt5.png"
+    },
+    {
+      "name": "Feiyue.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Feiyue.png"
+    },
+    {
+      "name": "Feiyue1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Feiyue1.png"
+    },
+    {
+      "name": "Feiyuedipingxian.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Feiyuedipingxian.png"
+    },
+    {
+      "name": "Feiyuedipingxian1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Feiyuedipingxian1.png"
+    },
+    {
+      "name": "Flareix.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Flareix.png"
+    },
+    {
+      "name": "Flareix1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Flareix1.png"
+    },
+    {
+      "name": "Flariex1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Flariex1.png"
+    },
+    {
+      "name": "Flariex2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Flariex2.png"
+    },
+    {
+      "name": "Foxcoo.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Foxcoo.png"
+    },
+    {
+      "name": "Foxcoo1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Foxcoo1.png"
+    },
+    {
+      "name": "Foxi1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Foxi1.png"
+    },
+    {
+      "name": "Foxi2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Foxi2.png"
+    },
+    {
+      "name": "FreeBSD1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/FreeBSD1.png"
+    },
+    {
+      "name": "FreeBSD111.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/FreeBSD111.png"
+    },
+    {
+      "name": "FreeEmby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/FreeEmby.png"
+    },
+    {
+      "name": "FreeEmby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/FreeEmby1.png"
+    },
+    {
+      "name": "Freestyle.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Freestyle.png"
+    },
+    {
+      "name": "Freestyle1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Freestyle1.png"
+    },
+    {
+      "name": "Froghub.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Froghub.png"
+    },
+    {
+      "name": "Froghub1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Froghub1.png"
+    },
+    {
+      "name": "GfwEmby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/GfwEmby.png"
+    },
+    {
+      "name": "GfwEmby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/GfwEmby1.png"
+    },
+    {
+      "name": "GoogleDrive.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/GoogleDrive.png"
+    },
+    {
+      "name": "GoogleDrive1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/GoogleDrive1.png"
+    },
+    {
+      "name": "Guanying.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Guanying.png"
+    },
+    {
+      "name": "Guanying1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Guanying1.png"
+    },
+    {
+      "name": "Gugu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Gugu.png"
+    },
+    {
+      "name": "Gugu1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Gugu1.png"
+    },
+    {
+      "name": "HXD6.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/HXD6.png"
+    },
+    {
+      "name": "HXD7.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/HXD7.png"
+    },
+    {
+      "name": "HXD8.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/HXD8.png"
+    },
+    {
+      "name": "HXD9.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/HXD9.png"
+    },
+    {
+      "name": "Han.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Han.png"
+    },
+    {
+      "name": "Han1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Han1.png"
+    },
+    {
+      "name": "Haochi2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Haochi2.png"
+    },
+    {
+      "name": "Haochi9.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Haochi9.png"
+    },
+    {
+      "name": "Haoji.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Haoji.png"
+    },
+    {
+      "name": "Haoji1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Haoji1.png"
+    },
+    {
+      "name": "HeiShan.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/HeiShan.png"
+    },
+    {
+      "name": "HeiShan1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/HeiShan1.png"
+    },
+    {
+      "name": "Heige.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Heige.png"
+    },
+    {
+      "name": "Heige1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Heige1.png"
+    },
+    {
+      "name": "Heisi.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Heisi.png"
+    },
+    {
+      "name": "Heisi1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Heisi1.png"
+    },
+    {
+      "name": "Heisi2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Heisi2.png"
+    },
+    {
+      "name": "Heisi3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Heisi3.png"
+    },
+    {
+      "name": "HentaiHome.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/HentaiHome.png"
+    },
+    {
+      "name": "HentaiHome1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/HentaiHome1.png"
+    },
+    {
+      "name": "HongChen.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/HongChen.png"
+    },
+    {
+      "name": "HongChen1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/HongChen1.png"
+    },
+    {
+      "name": "Hongchen2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Hongchen2.png"
+    },
+    {
+      "name": "Hongchen4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Hongchen4.png"
+    },
+    {
+      "name": "Huiyuan3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Huiyuan3.png"
+    },
+    {
+      "name": "Huiyuan4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Huiyuan4.png"
+    },
+    {
+      "name": "Hxd.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Hxd.png"
+    },
+    {
+      "name": "Hxd1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Hxd1.png"
+    },
+    {
+      "name": "Hxd2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Hxd2.png"
+    },
+    {
+      "name": "Hxd3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Hxd3.png"
+    },
+    {
+      "name": "Hxd4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Hxd4.png"
+    },
+    {
+      "name": "Hxd5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Hxd5.png"
+    },
+    {
+      "name": "Hygge1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Hygge1.png"
+    },
+    {
+      "name": "Hygge2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Hygge2.png"
+    },
+    {
+      "name": "Ikoumi.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Ikoumi.png"
+    },
+    {
+      "name": "Ikoumi1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Ikoumi1.png"
+    },
+    {
+      "name": "Infinity.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Infinity.png"
+    },
+    {
+      "name": "Infinity1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Infinity1.png"
+    },
+    {
+      "name": "Infuse.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Infuse.png"
+    },
+    {
+      "name": "Infuse1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Infuse1.png"
+    },
+    {
+      "name": "Ing.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Ing.png"
+    },
+    {
+      "name": "Ing9.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Ing9.png"
+    },
+    {
+      "name": "JMS.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/JMS.png"
+    },
+    {
+      "name": "JMS1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/JMS1.png"
+    },
+    {
+      "name": "JMS2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/JMS2.png"
+    },
+    {
+      "name": "JMS3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/JMS3.png"
+    },
+    {
+      "name": "JMSIPTV1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/JMSIPTV1.png"
+    },
+    {
+      "name": "JMSIPTV2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/JMSIPTV2.png"
+    },
+    {
+      "name": "Jay1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Jay1.png"
+    },
+    {
+      "name": "Jay2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Jay2.png"
+    },
+    {
+      "name": "Jellyfin.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Jellyfin.png"
+    },
+    {
+      "name": "Jellyfin1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Jellyfin1.png"
+    },
+    {
+      "name": "Jhemby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Jhemby.png"
+    },
+    {
+      "name": "Jhemby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Jhemby1.png"
+    },
+    {
+      "name": "JieNiGui.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/JieNiGui.png"
+    },
+    {
+      "name": "JieNiGui1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/JieNiGui1.png"
+    },
+    {
+      "name": "JieSen.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/JieSen.png"
+    },
+    {
+      "name": "JieSen1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/JieSen1.png"
+    },
+    {
+      "name": "Jikongjian.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Jikongjian.png"
+    },
+    {
+      "name": "Jikongjian1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Jikongjian1.png"
+    },
+    {
+      "name": "Jiuba2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Jiuba2.png"
+    },
+    {
+      "name": "Jiuba3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Jiuba3.png"
+    },
+    {
+      "name": "Jiuba4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Jiuba4.png"
+    },
+    {
+      "name": "Jiuba5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Jiuba5.png"
+    },
+    {
+      "name": "JuDog.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/JuDog.png"
+    },
+    {
+      "name": "JuDog1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/JuDog1.png"
+    },
+    {
+      "name": "JuDog2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/JuDog2.png"
+    },
+    {
+      "name": "JuDog3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/JuDog3.png"
+    },
+    {
+      "name": "Juzi1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Juzi1.png"
+    },
+    {
+      "name": "Juzi9.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Juzi9.png"
+    },
+    {
+      "name": "Jyctv.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Jyctv.png"
+    },
+    {
+      "name": "Jyctv1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Jyctv1.png"
+    },
+    {
+      "name": "KaiLu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/KaiLu.png"
+    },
+    {
+      "name": "KaiLu1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/KaiLu1.png"
+    },
+    {
+      "name": "Kaixin.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Kaixin.png"
+    },
+    {
+      "name": "Kaixin1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Kaixin1.png"
+    },
+    {
+      "name": "Karong.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Karong.png"
+    },
+    {
+      "name": "Karong1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Karong1.png"
+    },
+    {
+      "name": "Kevin.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Kevin.png"
+    },
+    {
+      "name": "Kevin1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Kevin1.png"
+    },
+    {
+      "name": "Kezhan1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Kezhan1.png"
+    },
+    {
+      "name": "Kezhan2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Kezhan2.png"
+    },
+    {
+      "name": "Kiki.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Kiki.png"
+    },
+    {
+      "name": "Kiki1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Kiki1.png"
+    },
+    {
+      "name": "Kiki2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Kiki2.png"
+    },
+    {
+      "name": "Kiki3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Kiki3.png"
+    },
+    {
+      "name": "KshtEmby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/KshtEmby.png"
+    },
+    {
+      "name": "KshtEmby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/KshtEmby1.png"
+    },
+    {
+      "name": "Kuake1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Kuake1.png"
+    },
+    {
+      "name": "Kuake2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Kuake2.png"
+    },
+    {
+      "name": "Kuanemby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Kuanemby.png"
+    },
+    {
+      "name": "Kuanemby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Kuanemby1.png"
+    },
+    {
+      "name": "Kuangreyun.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Kuangreyun.png"
+    },
+    {
+      "name": "Kuangreyun2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Kuangreyun2.png"
+    },
+    {
+      "name": "Lend.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Lend.png"
+    },
+    {
+      "name": "Lend1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Lend1.png"
+    },
+    {
+      "name": "LiangShan.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/LiangShan.png"
+    },
+    {
+      "name": "LiangShan1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/LiangShan1.png"
+    },
+    {
+      "name": "LiangShan2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/LiangShan2.png"
+    },
+    {
+      "name": "LiangShan3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/LiangShan3.png"
+    },
+    {
+      "name": "Lion.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Lion.png"
+    },
+    {
+      "name": "Lion1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Lion1.png"
+    },
+    {
+      "name": "Loniper.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Loniper.png"
+    },
+    {
+      "name": "Loniper1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Loniper1.png"
+    },
+    {
+      "name": "Loop.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Loop.png"
+    },
+    {
+      "name": "Loop1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Loop1.png"
+    },
+    {
+      "name": "Lvlian.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Lvlian.png"
+    },
+    {
+      "name": "Lvlian1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Lvlian1.png"
+    },
+    {
+      "name": "Lyrebird.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Lyrebird.png"
+    },
+    {
+      "name": "Lyrebird1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Lyrebird1.png"
+    },
+    {
+      "name": "Lyrebird2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Lyrebird2.png"
+    },
+    {
+      "name": "Lyrebird3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Lyrebird3.png"
+    },
+    {
+      "name": "MX.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/MX.png"
+    },
+    {
+      "name": "MX1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/MX1.png"
+    },
+    {
+      "name": "Magic.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Magic.png"
+    },
+    {
+      "name": "Magic1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Magic1.png"
+    },
+    {
+      "name": "Magic2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Magic2.png"
+    },
+    {
+      "name": "Magic3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Magic3.png"
+    },
+    {
+      "name": "Magpie.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Magpie.png"
+    },
+    {
+      "name": "Magpie1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Magpie1.png"
+    },
+    {
+      "name": "Magpie2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Magpie2.png"
+    },
+    {
+      "name": "Magpie3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Magpie3.png"
+    },
+    {
+      "name": "Magpie4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Magpie4.png"
+    },
+    {
+      "name": "Magpie5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Magpie5.png"
+    },
+    {
+      "name": "Maliao.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Maliao.png"
+    },
+    {
+      "name": "Maliao1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Maliao1.png"
+    },
+    {
+      "name": "MengMeng.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/MengMeng.png"
+    },
+    {
+      "name": "MengMeng1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/MengMeng1.png"
+    },
+    {
+      "name": "Mgl.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Mgl.png"
+    },
+    {
+      "name": "Mgl1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Mgl1.png"
+    },
+    {
+      "name": "Mgp.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Mgp.png"
+    },
+    {
+      "name": "Mgp1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Mgp1.png"
+    },
+    {
+      "name": "Miaomiaowu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Miaomiaowu.png"
+    },
+    {
+      "name": "Miaomiaowu1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Miaomiaowu1.png"
+    },
+    {
+      "name": "Micu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Micu.png"
+    },
+    {
+      "name": "Micu1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Micu1.png"
+    },
+    {
+      "name": "Midsummer.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Midsummer.png"
+    },
+    {
+      "name": "Midsummer1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Midsummer1.png"
+    },
+    {
+      "name": "Mildnes.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Mildnes.png"
+    },
+    {
+      "name": "Mildnes1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Mildnes1.png"
+    },
+    {
+      "name": "Mildnes2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Mildnes2.png"
+    },
+    {
+      "name": "Mildnes3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Mildnes3.png"
+    },
+    {
+      "name": "Mildnes4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Mildnes4.png"
+    },
+    {
+      "name": "Mildnes5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Mildnes5.png"
+    },
+    {
+      "name": "MisakaF.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/MisakaF.png"
+    },
+    {
+      "name": "MisakaF1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/MisakaF1.png"
+    },
+    {
+      "name": "MisakaF2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/MisakaF2.png"
+    },
+    {
+      "name": "MisakaF3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/MisakaF3.png"
+    },
+    {
+      "name": "Misty.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Misty.png"
+    },
+    {
+      "name": "Misty1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Misty1.png"
+    },
+    {
+      "name": "Misty2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Misty2.png"
+    },
+    {
+      "name": "Misty3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Misty3.png"
+    },
+    {
+      "name": "Mjj.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Mjj.png"
+    },
+    {
+      "name": "Mjj1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Mjj1.png"
+    },
+    {
+      "name": "Moonlight.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Moonlight.png"
+    },
+    {
+      "name": "Moonlight1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Moonlight1.png"
+    },
+    {
+      "name": "More.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/More.png"
+    },
+    {
+      "name": "More1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/More1.png"
+    },
+    {
+      "name": "Mulgore.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Mulgore.png"
+    },
+    {
+      "name": "Mulgore1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Mulgore1.png"
+    },
+    {
+      "name": "Music.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Music.png"
+    },
+    {
+      "name": "Music1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Music1.png"
+    },
+    {
+      "name": "NMneibu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/NMneibu.png"
+    },
+    {
+      "name": "NMneibu1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/NMneibu1.png"
+    },
+    {
+      "name": "NakoNako.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/NakoNako.png"
+    },
+    {
+      "name": "NakoNako1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/NakoNako1.png"
+    },
+    {
+      "name": "Nas.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nas.png"
+    },
+    {
+      "name": "Nas1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nas1.png"
+    },
+    {
+      "name": "Nebula.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nebula.png"
+    },
+    {
+      "name": "Nebula1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nebula1.png"
+    },
+    {
+      "name": "Nebula2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nebula2.png"
+    },
+    {
+      "name": "Nebula3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nebula3.png"
+    },
+    {
+      "name": "Nginx.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nginx.png"
+    },
+    {
+      "name": "Nginx1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nginx1.png"
+    },
+    {
+      "name": "Nijigen.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nijigen.png"
+    },
+    {
+      "name": "Nijigen1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nijigen1.png"
+    },
+    {
+      "name": "Nijigen2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nijigen2.png"
+    },
+    {
+      "name": "Nijigen3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nijigen3.png"
+    },
+    {
+      "name": "Ninja.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Ninja.png"
+    },
+    {
+      "name": "Ninja1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Ninja1.png"
+    },
+    {
+      "name": "Nirvana.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nirvana.png"
+    },
+    {
+      "name": "Nirvana1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nirvana1.png"
+    },
+    {
+      "name": "NmEmby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/NmEmby.png"
+    },
+    {
+      "name": "NmEmby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/NmEmby1.png"
+    },
+    {
+      "name": "NmEmby2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/NmEmby2.png"
+    },
+    {
+      "name": "NmEmby3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/NmEmby3.png"
+    },
+    {
+      "name": "NmEmby4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/NmEmby4.png"
+    },
+    {
+      "name": "NmEmby5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/NmEmby5.png"
+    },
+    {
+      "name": "Nplayer.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nplayer.png"
+    },
+    {
+      "name": "Nplayer1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nplayer1.png"
+    },
+    {
+      "name": "Ntrrr.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Ntrrr.png"
+    },
+    {
+      "name": "Ntrrr1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Ntrrr1.png"
+    },
+    {
+      "name": "Ntrrr2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Ntrrr2.png"
+    },
+    {
+      "name": "Ntrrr3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Ntrrr3.png"
+    },
+    {
+      "name": "Nya.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nya.png"
+    },
+    {
+      "name": "Nya1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Nya1.png"
+    },
+    {
+      "name": "O9o.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/O9o.png"
+    },
+    {
+      "name": "O9o1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/O9o1.png"
+    },
+    {
+      "name": "O9o2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/O9o2.png"
+    },
+    {
+      "name": "O9o3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/O9o3.png"
+    },
+    {
+      "name": "Odyssey.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Odyssey.png"
+    },
+    {
+      "name": "Odyssey1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Odyssey1.png"
+    },
+    {
+      "name": "Odyssey2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Odyssey2.png"
+    },
+    {
+      "name": "Odyssey3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Odyssey3.png"
+    },
+    {
+      "name": "Ofuniverse.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Ofuniverse.png"
+    },
+    {
+      "name": "Ofuniverse1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Ofuniverse1.png"
+    },
+    {
+      "name": "OneDrive.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/OneDrive.png"
+    },
+    {
+      "name": "OneDrive1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/OneDrive1.png"
+    },
+    {
+      "name": "OnlyFans.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/OnlyFans.png"
+    },
+    {
+      "name": "OnlyFans1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/OnlyFans1.png"
+    },
+    {
+      "name": "Orange.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Orange.png"
+    },
+    {
+      "name": "Orange1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Orange1.png"
+    },
+    {
+      "name": "Orange2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Orange2.png"
+    },
+    {
+      "name": "Orange3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Orange3.png"
+    },
+    {
+      "name": "Otaku.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Otaku.png"
+    },
+    {
+      "name": "Otaku1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Otaku1.png"
+    },
+    {
+      "name": "PP.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PP.png"
+    },
+    {
+      "name": "PP1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PP1.png"
+    },
+    {
+      "name": "Pandatv.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Pandatv.png"
+    },
+    {
+      "name": "Pandatv1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Pandatv1.png"
+    },
+    {
+      "name": "PaoChe.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PaoChe.png"
+    },
+    {
+      "name": "PaoChe1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PaoChe1.png"
+    },
+    {
+      "name": "PaoChe2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PaoChe2.png"
+    },
+    {
+      "name": "PaoChe3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PaoChe3.png"
+    },
+    {
+      "name": "PaoLuLe.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PaoLuLe.png"
+    },
+    {
+      "name": "PaoLuLe1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PaoLuLe1.png"
+    },
+    {
+      "name": "PaoLuLe2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PaoLuLe2.png"
+    },
+    {
+      "name": "PaoLuLe3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PaoLuLe3.png"
+    },
+    {
+      "name": "Paul.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Paul.png"
+    },
+    {
+      "name": "Paul1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Paul1.png"
+    },
+    {
+      "name": "Peach.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Peach.png"
+    },
+    {
+      "name": "Peach1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Peach1.png"
+    },
+    {
+      "name": "Peach2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Peach2.png"
+    },
+    {
+      "name": "Peach3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Peach3.png"
+    },
+    {
+      "name": "PikPak.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PikPak.png"
+    },
+    {
+      "name": "PikPak1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PikPak1.png"
+    },
+    {
+      "name": "PiliPili.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PiliPili.png"
+    },
+    {
+      "name": "PiliPili1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PiliPili1.png"
+    },
+    {
+      "name": "PinYun.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PinYun.png"
+    },
+    {
+      "name": "PinYun1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PinYun1.png"
+    },
+    {
+      "name": "Plex.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Plex.png"
+    },
+    {
+      "name": "Plex1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Plex1.png"
+    },
+    {
+      "name": "Plex2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Plex2.png"
+    },
+    {
+      "name": "Plex3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Plex3.png"
+    },
+    {
+      "name": "Plus.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Plus.png"
+    },
+    {
+      "name": "Plus1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Plus1.png"
+    },
+    {
+      "name": "Plusemby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Plusemby.png"
+    },
+    {
+      "name": "Plusemby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Plusemby1.png"
+    },
+    {
+      "name": "Polo.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Polo.png"
+    },
+    {
+      "name": "Polo1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Polo1.png"
+    },
+    {
+      "name": "Polo2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Polo2.png"
+    },
+    {
+      "name": "Polo3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Polo3.png"
+    },
+    {
+      "name": "PornEmby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PornEmby.png"
+    },
+    {
+      "name": "PornEmby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/PornEmby1.png"
+    },
+    {
+      "name": "Prpr.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Prpr.png"
+    },
+    {
+      "name": "Prpr1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Prpr1.png"
+    },
+    {
+      "name": "QQEmby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/QQEmby.png"
+    },
+    {
+      "name": "QQEmby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/QQEmby1.png"
+    },
+    {
+      "name": "Qunhui.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Qunhui.png"
+    },
+    {
+      "name": "Qunhui1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Qunhui1.png"
+    },
+    {
+      "name": "Richang.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Richang.png"
+    },
+    {
+      "name": "Richang1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Richang1.png"
+    },
+    {
+      "name": "Robo.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Robo.png"
+    },
+    {
+      "name": "Robo1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Robo1.png"
+    },
+    {
+      "name": "Sela.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Sela.png"
+    },
+    {
+      "name": "Sela1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Sela1.png"
+    },
+    {
+      "name": "Seoul.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Seoul.png"
+    },
+    {
+      "name": "Seoul1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Seoul1.png"
+    },
+    {
+      "name": "SeseEmby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/SeseEmby.png"
+    },
+    {
+      "name": "SeseEmby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/SeseEmby1.png"
+    },
+    {
+      "name": "SeseEmby2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/SeseEmby2.png"
+    },
+    {
+      "name": "SeseEmby3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/SeseEmby3.png"
+    },
+    {
+      "name": "SeseEmby4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/SeseEmby4.png"
+    },
+    {
+      "name": "SeseEmby5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/SeseEmby5.png"
+    },
+    {
+      "name": "Shangdi.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Shangdi.png"
+    },
+    {
+      "name": "Shangdi1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Shangdi1.png"
+    },
+    {
+      "name": "ShenLan.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ShenLan.png"
+    },
+    {
+      "name": "ShenLan1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ShenLan1.png"
+    },
+    {
+      "name": "ShenLan2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ShenLan2.png"
+    },
+    {
+      "name": "ShenLan3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ShenLan3.png"
+    },
+    {
+      "name": "ShenNong.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ShenNong.png"
+    },
+    {
+      "name": "ShenNong1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ShenNong1.png"
+    },
+    {
+      "name": "Shenong2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Shenong2.png"
+    },
+    {
+      "name": "Shenong3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Shenong3.png"
+    },
+    {
+      "name": "Shufu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Shufu.png"
+    },
+    {
+      "name": "Shufu1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Shufu1.png"
+    },
+    {
+      "name": "ShuiMu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ShuiMu.png"
+    },
+    {
+      "name": "ShuiMu1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ShuiMu1.png"
+    },
+    {
+      "name": "ShuiMu2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ShuiMu2.png"
+    },
+    {
+      "name": "ShuiMu3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ShuiMu3.png"
+    },
+    {
+      "name": "Shuimu4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Shuimu4.png"
+    },
+    {
+      "name": "Shuimu5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Shuimu5.png"
+    },
+    {
+      "name": "Shuimu6.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Shuimu6.png"
+    },
+    {
+      "name": "Shuimu7.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Shuimu7.png"
+    },
+    {
+      "name": "Shuimu8.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Shuimu8.png"
+    },
+    {
+      "name": "Shuimu9.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Shuimu9.png"
+    },
+    {
+      "name": "Siku.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Siku.png"
+    },
+    {
+      "name": "Siku1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Siku1.png"
+    },
+    {
+      "name": "Sing.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Sing.png"
+    },
+    {
+      "name": "Sing1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Sing1.png"
+    },
+    {
+      "name": "Singularity.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Singularity.png"
+    },
+    {
+      "name": "Singularity1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Singularity1.png"
+    },
+    {
+      "name": "Sport.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Sport.png"
+    },
+    {
+      "name": "Sport1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Sport1.png"
+    },
+    {
+      "name": "StarCat.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/StarCat.png"
+    },
+    {
+      "name": "StarCat1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/StarCat1.png"
+    },
+    {
+      "name": "StarCat2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/StarCat2.png"
+    },
+    {
+      "name": "StarCat3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/StarCat3.png"
+    },
+    {
+      "name": "StarCat4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/StarCat4.png"
+    },
+    {
+      "name": "StarCat5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/StarCat5.png"
+    },
+    {
+      "name": "StudyFun.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/StudyFun.png"
+    },
+    {
+      "name": "StudyFun1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/StudyFun1.png"
+    },
+    {
+      "name": "StudyFun2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/StudyFun2.png"
+    },
+    {
+      "name": "StudyFun3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/StudyFun3.png"
+    },
+    {
+      "name": "Sususu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Sususu.png"
+    },
+    {
+      "name": "Sususu1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Sususu1.png"
+    },
+    {
+      "name": "TV.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/TV.png"
+    },
+    {
+      "name": "TV1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/TV1.png"
+    },
+    {
+      "name": "Tag.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tag.png"
+    },
+    {
+      "name": "Tag1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tag1.png"
+    },
+    {
+      "name": "Tang.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tang.png"
+    },
+    {
+      "name": "Tang1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tang1.png"
+    },
+    {
+      "name": "Tanhua.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tanhua.png"
+    },
+    {
+      "name": "Tanhua1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tanhua1.png"
+    },
+    {
+      "name": "Tanhua2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tanhua2.png"
+    },
+    {
+      "name": "Tanhua3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tanhua3.png"
+    },
+    {
+      "name": "Tanhua4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tanhua4.png"
+    },
+    {
+      "name": "Tanhua5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tanhua5.png"
+    },
+    {
+      "name": "Tank.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tank.png"
+    },
+    {
+      "name": "Tank1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tank1.png"
+    },
+    {
+      "name": "Tank2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tank2.png"
+    },
+    {
+      "name": "Tank3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tank3.png"
+    },
+    {
+      "name": "Tank4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tank4.png"
+    },
+    {
+      "name": "Tank5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tank5.png"
+    },
+    {
+      "name": "Tank6.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tank6.png"
+    },
+    {
+      "name": "Tank7.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tank7.png"
+    },
+    {
+      "name": "Teka.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Teka.png"
+    },
+    {
+      "name": "Teka1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Teka1.png"
+    },
+    {
+      "name": "Teka2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Teka2.png"
+    },
+    {
+      "name": "Teka3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Teka3.png"
+    },
+    {
+      "name": "Temby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Temby.png"
+    },
+    {
+      "name": "Temby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Temby1.png"
+    },
+    {
+      "name": "Temby2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Temby2.png"
+    },
+    {
+      "name": "Temby3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Temby3.png"
+    },
+    {
+      "name": "Terminus.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Terminus.png"
+    },
+    {
+      "name": "Terminus1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Terminus1.png"
+    },
+    {
+      "name": "Texon.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Texon.png"
+    },
+    {
+      "name": "Texon1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Texon1.png"
+    },
+    {
+      "name": "Tiannanxiaozhu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tiannanxiaozhu.png"
+    },
+    {
+      "name": "Tiannanxiaozhu1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tiannanxiaozhu1.png"
+    },
+    {
+      "name": "Tianxiaorui.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tianxiaorui.png"
+    },
+    {
+      "name": "Tianxiaorui1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tianxiaorui1.png"
+    },
+    {
+      "name": "Tianxiaorui3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tianxiaorui3.png"
+    },
+    {
+      "name": "Tianxiaorui4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tianxiaorui4.png"
+    },
+    {
+      "name": "Tls.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tls.png"
+    },
+    {
+      "name": "Tls1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tls1.png"
+    },
+    {
+      "name": "TreeDiagram.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/TreeDiagram.png"
+    },
+    {
+      "name": "TreeDiagram1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/TreeDiagram1.png"
+    },
+    {
+      "name": "Tuboshu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tuboshu.png"
+    },
+    {
+      "name": "Tuboshu1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Tuboshu1.png"
+    },
+    {
+      "name": "Twm.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Twm.png"
+    },
+    {
+      "name": "Twm1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Twm1.png"
+    },
+    {
+      "name": "V6.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/V6.png"
+    },
+    {
+      "name": "V61.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/V61.png"
+    },
+    {
+      "name": "V62.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/V62.png"
+    },
+    {
+      "name": "V63.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/V63.png"
+    },
+    {
+      "name": "Video4lib.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Video4lib.png"
+    },
+    {
+      "name": "Video4lib1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Video4lib1.png"
+    },
+    {
+      "name": "Viper.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Viper.png"
+    },
+    {
+      "name": "Viper1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Viper1.png"
+    },
+    {
+      "name": "Viper2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Viper2.png"
+    },
+    {
+      "name": "Viper3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Viper3.png"
+    },
+    {
+      "name": "WangZhe.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/WangZhe.png"
+    },
+    {
+      "name": "WangZhe1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/WangZhe1.png"
+    },
+    {
+      "name": "Webdav.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Webdav.png"
+    },
+    {
+      "name": "Webdav1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Webdav1.png"
+    },
+    {
+      "name": "WeiWei.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/WeiWei.png"
+    },
+    {
+      "name": "WeiWei1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/WeiWei1.png"
+    },
+    {
+      "name": "XY.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/XY.png"
+    },
+    {
+      "name": "XY1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/XY1.png"
+    },
+    {
+      "name": "XY2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/XY2.png"
+    },
+    {
+      "name": "XY3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/XY3.png"
+    },
+    {
+      "name": "XY4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/XY4.png"
+    },
+    {
+      "name": "XY5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/XY5.png"
+    },
+    {
+      "name": "XfEmby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/XfEmby.png"
+    },
+    {
+      "name": "XfEmby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/XfEmby1.png"
+    },
+    {
+      "name": "XfEmby2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/XfEmby2.png"
+    },
+    {
+      "name": "XfEmby3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/XfEmby3.png"
+    },
+    {
+      "name": "XiangGangLiShiJie.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/XiangGangLiShiJie.png"
+    },
+    {
+      "name": "XiangGangLiShiJie1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/XiangGangLiShiJie1.png"
+    },
+    {
+      "name": "Xiaoxin.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Xiaoxin.png"
+    },
+    {
+      "name": "Xiaoxin1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Xiaoxin1.png"
+    },
+    {
+      "name": "Xiaoyi.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Xiaoyi.png"
+    },
+    {
+      "name": "Xiaoyi1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Xiaoyi1.png"
+    },
+    {
+      "name": "Xingguang.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Xingguang.png"
+    },
+    {
+      "name": "Xingguang1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Xingguang1.png"
+    },
+    {
+      "name": "Xltx.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Xltx.png"
+    },
+    {
+      "name": "Xltx1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Xltx1.png"
+    },
+    {
+      "name": "Xmss.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Xmss.png"
+    },
+    {
+      "name": "Xmss1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Xmss1.png"
+    },
+    {
+      "name": "Xop.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Xop.png"
+    },
+    {
+      "name": "Xop1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Xop1.png"
+    },
+    {
+      "name": "YeJiChang.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/YeJiChang.png"
+    },
+    {
+      "name": "YeJiChang1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/YeJiChang1.png"
+    },
+    {
+      "name": "YeJiFu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/YeJiFu.png"
+    },
+    {
+      "name": "YeJiFu1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/YeJiFu1.png"
+    },
+    {
+      "name": "YeshouPlus.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/YeshouPlus.png"
+    },
+    {
+      "name": "YeshouPlus1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/YeshouPlus1.png"
+    },
+    {
+      "name": "Yiri.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Yiri.png"
+    },
+    {
+      "name": "Yiri1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Yiri1.png"
+    },
+    {
+      "name": "Yonglihg.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Yonglihg.png"
+    },
+    {
+      "name": "Yonglihg1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Yonglihg1.png"
+    },
+    {
+      "name": "ZhiPianRen.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ZhiPianRen.png"
+    },
+    {
+      "name": "ZhiPianRen1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ZhiPianRen1.png"
+    },
+    {
+      "name": "ZhiPianRen2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ZhiPianRen2.png"
+    },
+    {
+      "name": "ZhiPianRen3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ZhiPianRen3.png"
+    },
+    {
+      "name": "ZhiPianRen4.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ZhiPianRen4.png"
+    },
+    {
+      "name": "ZhiPianRen5.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ZhiPianRen5.png"
+    },
+    {
+      "name": "ZhiPianRen6.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ZhiPianRen6.png"
+    },
+    {
+      "name": "ZhiPianRen7.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/ZhiPianRen7.png"
+    },
+    {
+      "name": "Zhongchou.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Zhongchou.png"
+    },
+    {
+      "name": "Zhongchou1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Zhongchou1.png"
+    },
+    {
+      "name": "Zhongxia.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Zhongxia.png"
+    },
+    {
+      "name": "Zhongxia1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Zhongxia1.png"
+    },
+    {
+      "name": "Zhuduobao.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Zhuduobao.png"
+    },
+    {
+      "name": "Zhuduobao1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Zhuduobao1.png"
+    },
+    {
+      "name": "Ziling.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Ziling.png"
+    },
+    {
+      "name": "Ziling1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Ziling1.png"
+    },
+    {
+      "name": "Zox.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Zox.png"
+    },
+    {
+      "name": "Zox1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Zox1.png"
+    },
+    {
+      "name": "Zzk.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Zzk.png"
+    },
+    {
+      "name": "Zzk1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Zzk1.png"
+    },
+    {
+      "name": "Zzk2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Zzk2.png"
+    },
+    {
+      "name": "Zzk3.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/Emby-icon/main/Assets/Zzk3.png"
+    }
+  ]
+}
